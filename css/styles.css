@@ -1,0 +1,29 @@
+/***********************TAG SELECTS********************/
+body{
+background-color:#FFFFE0;
+}
+hr{
+border-style:dotted none none;
+width: 100%;
+border-color:grey;
+border-width:5px;
+}
+h3{
+  color: #0000FF;
+
+}
+h1{
+  color: Aqua;
+}
+/*
+img{
+background-color:red;
+}
+*/
+/***********************************class SELECTS********************/
+.television{
+  background-color: blue;
+}
+.fire{
+background-color: green;
+}
