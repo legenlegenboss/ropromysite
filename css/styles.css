@@ -15,12 +15,13 @@ h3{
 h1{
   color: Aqua;
 }
-/*
 img{
 background-color:red;
 }
-*/
 /***********************************class SELECTS********************/
+.circle{
+  border-radius: 100%;
+}
 .television{
   background-color: blue;
 }
